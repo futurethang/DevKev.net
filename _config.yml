@@ -4,7 +4,7 @@
 
 # Site
 title: DevKev.Net 
-subtitle: Very 'opeful, very 'umble notes on the Dev Life
+subtitle: Notes on Development
 description: 
 keywords:
 author: Kevin Hyde
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: minos
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
